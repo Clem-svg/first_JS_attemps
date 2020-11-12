@@ -1,4 +1,4 @@
-yourSentence = prompt('Wesh, tu veux quoi ?'); //teste avec plusieurs valeurs
+yourSentence = prompt('Wesh, tu veux quoi ?');
 
 
 switch (true) {
